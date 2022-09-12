@@ -1,0 +1,6 @@
+name: DRBedrock
+version: 1.0
+main: me.vinex_.drbedrock.DRBedrock
+author: ItsVinnyX
+description: Bedrock Utility.
+api-version: 1.18
